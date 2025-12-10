@@ -1,7 +1,9 @@
-torch==2.5.1+cpu
-torchvision==0.22.1+cpu
-torchaudio==2.5.1+cpu
+torch==2.7.1+cpu
+torchvision==0.24.1+cpu
+torchaudio==2.7.1+cpu
+
 streamlit
 pillow
 pandas
+
 --extra-index-url https://download.pytorch.org/whl/cpu
